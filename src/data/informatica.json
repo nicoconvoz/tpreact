@@ -1,0 +1,37 @@
+{
+	"informatica": [
+		{
+			"id":"1",
+			"componente": "Monitor Led 18.5'",
+			"marca": "Noblex",
+			"imagen": "1.webp",
+			"precio": "8999",
+			"envio": "G",
+			"costoEnvio": "400",
+			"vendidos": "37",
+			"detalle": "Una experiencia visual de calidad, sus 18.5' te resultarán ideales en tu vida diaria ya sea para estudiar o trabajar. Asimismo, su resolución de 1366 x 768 píxeles te permitirá disfrutar de momentos únicos gracias a una imagen con gran nitidez. Por último, sus 5 milisegundos de tiempo de respuesta lo hacen ideal para gamers y cinéfilos porque será capaz de mostrar imágenes en movimiento sin halos o bordes borrosos."
+		},
+		{
+			"id":"2",
+			"componente": "Mouse negro",
+			"marca": "Logitech",
+			"imagen": "2.webp",
+			"precio": "252",
+			"envio": "P",
+			"costoEnvio": "400",
+			"vendidos": "55",
+			"detalle": "Debido a su diseño eficaz, este mouse convencional te brindará comodidad y una gran experiencia de uso. Además, su sistema de detección de movimiento óptico te permitirá mover el cursor de una manera más precisa y sensible que en los sistemas tradicionales. Con sus 7 botones podrás tener mayor control e independencia para ejecutar."
+		},
+		{
+			"id":"3",
+			"componente": "Notebook Exo E25",
+			"marca": "Exo",
+			"imagen": "3.webp",
+			"precio": "32799",
+			"envio": "G",
+			"costoEnvio": "400",
+			"vendidos": "13",
+			"detalle": "Procesador Intel® Celeron® N3350 - Memoria 4 GB DDR3 - Almacenamiento 500gb - Pantalla FullHD 14,1” | Resolución de 1920x1080 - Video Intel® HD Graphic - Peso 2200 gramos"
+		}
+	]
+}
